@@ -1,4 +1,3 @@
-
 const textUser = prompt('Enter text');
 const check = Array.from(textUser);
 debugger;
